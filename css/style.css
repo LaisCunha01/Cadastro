@@ -55,7 +55,7 @@ input {
 }
 
 input:focus {
-    border-color: #330aa2;
+    border-color: #2e176d;
     outline: none;
 }
 
